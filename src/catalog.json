@@ -1,0 +1,478 @@
+[
+  {
+    "name": "Apex Scratch Helmet With Spoiler",
+    "brandId": "axor",
+    "categoryId": "full-face",
+    "source": "https://axorhelmets.com/products/apex-scratch-helmet-with-spoiler",
+    "id": "helmet-1",
+    "price": 28500,
+    "comparePrice": 31000,
+    "images": ["/assets/helmet-1.webp", "/assets/helmet-1-alt.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "Make a statement on your everyday commute or your next weekend escape. Explore the graphics and finish in the gallery, find your size, and make your next ride your own.",
+    "badge": "Bestseller",
+    "featured": true,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Apex Ascetic Helmet",
+    "brandId": "axor",
+    "categoryId": "full-face",
+    "source": "https://axorhelmets.com/products/apex-ascetic-helmet",
+    "id": "helmet-2",
+    "price": 32000,
+    "comparePrice": 34500,
+    "images": ["/assets/helmet-2.webp", "/assets/helmet-2-alt.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "Make a statement on your everyday commute or your next weekend escape. Explore the graphics and finish in the gallery, find your size, and make your next ride your own.",
+    "badge": "New arrival",
+    "featured": true,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Axor Agera Full Face Helmet With Spoiler",
+    "brandId": "axor",
+    "categoryId": "full-face",
+    "source": "https://axorhelmets.com/products/axor-agera-full-face-helmet-with-spoiler",
+    "id": "helmet-3",
+    "price": 48950,
+    "comparePrice": 0,
+    "images": ["/assets/helmet-3.webp", "/assets/helmet-3-alt.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "Make a statement on your everyday commute or your next weekend escape. Explore the graphics and finish in the gallery, find your size, and make your next ride your own.",
+    "badge": "",
+    "featured": false,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Axor Agera Starry Full Face Helmet With Spoiler",
+    "brandId": "axor",
+    "categoryId": "full-face",
+    "source": "https://axorhelmets.com/products/axor-agera-starry-full-face-helmet-with-spoiler",
+    "id": "helmet-4",
+    "price": 51500,
+    "comparePrice": 54000,
+    "images": ["/assets/helmet-4.webp", "/assets/helmet-4-alt.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "Make a statement on your everyday commute or your next weekend escape. Explore the graphics and finish in the gallery, find your size, and make your next ride your own.",
+    "badge": "New arrival",
+    "featured": false,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Retro Jet Geometric Open Face Helmet",
+    "brandId": "axor",
+    "categoryId": "open-face",
+    "source": "https://axorhelmets.com/products/retro-jet-geometric-open-face-helmet",
+    "id": "helmet-5",
+    "price": 19500,
+    "comparePrice": 22000,
+    "images": ["/assets/helmet-5.webp", "/assets/helmet-5-alt.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "An easygoing look for everyday city miles. Explore the finish in the gallery and choose your size. Check the exact model fit with your retailer before you head out.",
+    "badge": "",
+    "featured": false,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Brutale Solid Colors Dual Spoiler Helmet",
+    "brandId": "axor",
+    "categoryId": "full-face",
+    "source": "https://axorhelmets.com/products/brutale-solid-colors-dual-spoiler-helmet",
+    "id": "helmet-6",
+    "price": 38950,
+    "comparePrice": 0,
+    "images": ["/assets/helmet-6.webp", "/assets/helmet-6-alt.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "Make a statement on your everyday commute or your next weekend escape. Explore the graphics and finish in the gallery, find your size, and make your next ride your own.",
+    "badge": "",
+    "featured": false,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Vega Bolt Attitude Helmet With Spoiler",
+    "brandId": "vega",
+    "categoryId": "full-face",
+    "source": "https://vegaauto.com/products/vega-bolt-attitude-helmet-with-spoiler",
+    "id": "helmet-7",
+    "price": 13500,
+    "comparePrice": 16000,
+    "images": ["/assets/helmet-7.webp", "/assets/helmet-7-alt.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "Make a statement on your everyday commute or your next weekend escape. Explore the graphics and finish in the gallery, find your size, and make your next ride your own.",
+    "badge": "Bestseller",
+    "featured": true,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Vega JET With Long Visor Helmet",
+    "brandId": "vega",
+    "categoryId": "open-face",
+    "source": "https://vegaauto.com/products/vega-jet-with-long-visor-helmet",
+    "id": "helmet-8",
+    "price": 8500,
+    "comparePrice": 11000,
+    "images": ["/assets/helmet-8.webp", "/assets/helmet-8-alt.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "An easygoing look for everyday city miles. Explore the finish in the gallery and choose your size. Check the exact model fit with your retailer before you head out.",
+    "badge": "New arrival",
+    "featured": false,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Crux Texture Finish Flip up Helmet",
+    "brandId": "vega",
+    "categoryId": "flip-up",
+    "source": "https://vegaauto.com/products/crux-flip-up-helmet",
+    "id": "helmet-9",
+    "price": 11500,
+    "comparePrice": 0,
+    "images": ["/assets/helmet-9.webp", "/assets/helmet-9-alt.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "A fresh perspective on the daily ride. Browse the gallery to explore this flip-up design, then select your size. Confirm the model features and fit with your retailer.",
+    "badge": "",
+    "featured": false,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Vega Bolt Elves Helmet With Spoiler",
+    "brandId": "vega",
+    "categoryId": "full-face",
+    "source": "https://vegaauto.com/products/bolt-evles-helmet",
+    "id": "helmet-10",
+    "price": 14800,
+    "comparePrice": 17300,
+    "images": ["/assets/helmet-10.webp", "/assets/helmet-10-alt.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "Make a statement on your everyday commute or your next weekend escape. Explore the graphics and finish in the gallery, find your size, and make your next ride your own.",
+    "badge": "",
+    "featured": false,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Buds Junior Ants Open Face Helmet",
+    "brandId": "vega",
+    "categoryId": "kids",
+    "source": "https://vegaauto.com/products/buds-junior-ants-open-face-helmet-1",
+    "id": "helmet-11",
+    "price": 6500,
+    "comparePrice": 9000,
+    "images": ["/assets/helmet-11.webp", "/assets/helmet-11-alt.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "A bright addition to the family riding kit. Explore the playful graphics and ask your retailer to confirm the child-specific size and fit before purchase.",
+    "badge": "",
+    "featured": false,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Steelbird SBH-88 Trident TR-1",
+    "brandId": "steelbird",
+    "categoryId": "full-face",
+    "source": "https://www.steelbirdhelmet.com/productlisting/details/?slug=sbh-88-trident-tr-1",
+    "id": "helmet-12",
+    "price": 16500,
+    "comparePrice": 0,
+    "images": ["/assets/helmet-12.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "Make a statement on your everyday commute or your next weekend escape. Explore the graphics and finish in the gallery, find your size, and make your next ride your own.",
+    "badge": "Bestseller",
+    "featured": true,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Steelbird SB-120 Fighter FEC-3",
+    "brandId": "steelbird",
+    "categoryId": "full-face",
+    "source": "https://www.steelbirdhelmet.com/productlisting/details/?slug=sb-120-fighter-ece-2206-fec-3",
+    "id": "helmet-13",
+    "price": 26500,
+    "comparePrice": 29000,
+    "images": ["/assets/helmet-13.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "Make a statement on your everyday commute or your next weekend escape. Explore the graphics and finish in the gallery, find your size, and make your next ride your own.",
+    "badge": "",
+    "featured": false,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "name": "Steelbird SBH-80 Fairy FR14",
+    "brandId": "steelbird",
+    "categoryId": "open-face",
+    "source": "https://www.steelbirdhelmet.com/productlisting/details/?slug=sbh-80-fairy-fr14",
+    "id": "helmet-14",
+    "price": 12500,
+    "comparePrice": 15000,
+    "images": ["/assets/helmet-14.webp"],
+    "variants": [
+      {
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
+    ],
+    "color": "See product photographs",
+    "description": "An easygoing look for everyday city miles. Explore the finish in the gallery and choose your size. Check the exact model fit with your retailer before you head out.",
+    "badge": "",
+    "featured": false,
+    "active": true,
+    "created": "2026-11-21T00:00:00.000Z"
+  }
+]
